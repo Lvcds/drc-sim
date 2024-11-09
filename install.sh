@@ -26,7 +26,7 @@
 VERSION="1.2"
 REPO_DRC_SIM="https://github.com/rolandoislas/drc-sim.git"
 REPO_WPA_SUPPLICANT_DRC="https://github.com/rolandoislas/drc-hostap.git"
-REPO_DRC_SIM_C="https://github.com/rolandoislas/drc-sim-c.git"
+REPO_DRC_SIM_C="https://github.com/Cyclone6664/drc-sim-c.git"
 INSTALL_DIR="/opt/drc_sim/"
 dependencies=()
 branch_drc_sim=""
